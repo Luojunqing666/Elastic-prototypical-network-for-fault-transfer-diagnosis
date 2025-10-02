@@ -6,11 +6,11 @@
 * Created by Jingjie Luo , Haidong Shao *, Jian Lin , Bin Liu.
 * Journal: Reliability Engineering & System Safety
 *
-Framework diagram of EProtoNet
+      Framework diagram of EProtoNet
 <div align="center">
 <img src="https://github.com/Luojunqing666/Elastic-prototypical-network-for-fault-transfer-diagnosis/blob/main/Framework%20diagram%20of%20EProtoNet.png" width="600" />
 </div>
-The overall procedure of this method
+      The overall procedure of this method
 <div align="center">
 <img src="https://github.com/Luojunqing666/Elastic-prototypical-network-for-fault-transfer-diagnosis/blob/main/The%20overall%20procedure%20of%20this%20method.png" width="600" />
 </div>
