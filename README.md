@@ -5,7 +5,7 @@
 <br> [Meta-learning with elastic prototypical network for fault transfer diagnosis of bearings under unstable speeds](https://www.sciencedirect.com/science/article/pii/S0951832024000760?via%3Dihub)
 * Created by Jingjie Luo , Haidong Shao *, Jian Lin , Bin Liu.
 * Journal: Reliability Engineering & System Safety
-* 
+* Framework diagram of EProtoNet
 <div align="center">
 <img src="https://github.com/LJJLJJ06/MDSAN/blob/main/%E7%A0%94%E7%A9%B6%E6%B5%81%E7%A8%8B%E5%9B%BE%E9%87%8D%E7%94%BB.jpg" width="600" />
 </div>
