@@ -7,7 +7,12 @@
 * Journal: Reliability Engineering & System Safety
 * Framework diagram of EProtoNet
 <div align="center">
-<img src="https://github.com/LJJLJJ06/MDSAN/blob/main/%E7%A0%94%E7%A9%B6%E6%B5%81%E7%A8%8B%E5%9B%BE%E9%87%8D%E7%94%BB.jpg" width="600" />
+<img src="https://github.com/Luojunqing666/Elastic-prototypical-network-for-fault-transfer-diagnosis/blob/main/Framework%20diagram%20of%20EProtoNet.png" width="600" />
+</div>
+*  
+* The overall procedure of this method
+<div align="center">
+<img src="https://github.com/Luojunqing666/Elastic-prototypical-network-for-fault-transfer-diagnosis/blob/main/The%20overall%20procedure%20of%20this%20method.png" width="600" />
 </div>
 
 ## Our operating environment
