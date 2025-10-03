@@ -22,7 +22,6 @@
 
 ## Datasets
 * CWRU (Case Western Reserve University Public Bearing Dataset)
-* We are sorry to say that due to data confidentiality reasons, the data on the rotational speed fluctuation bearings in our laboratory, which are included in the paper, cannot be disclosed yet.很抱歉因为数据保密原因，论文中涉及的我们实验室的转速波动轴承数据尚不能公开
 * If you need more publicly available vibration signal datasets for research, please feel free to contact me via email
 
 ## Citation
