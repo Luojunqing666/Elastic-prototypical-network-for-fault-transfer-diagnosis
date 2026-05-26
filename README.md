@@ -21,7 +21,7 @@ EProtoNet introduces an **elastic distance metric** into the prototypical networ
 </div>
 
 <div align="center">
-<img src="Framework diagram of EProtoNet.png" width="700" />
+<img src="The overall procedure of this method.png" width="700" />
 <p><em>The overall procedure of the proposed method</em></p>
 </div>
 
@@ -191,6 +191,8 @@ If you find this work useful, please cite:
 
 **基于弹性原型网络的元学习方法用于不稳定转速下轴承故障迁移诊断**
 
+本科期间的成果了，现在回看，还有很多能进一步改进和优化的，请多见谅！
+
 [![论文](https://img.shields.io/badge/论文-Reliability%20Engineering%20%26%20System%20Safety-blue)](https://doi.org/10.1016/j.ress.2024.110001)
 [![许可证](https://img.shields.io/badge/许可证-MIT-green.svg)](LICENSE)
 
@@ -205,12 +207,12 @@ If you find this work useful, please cite:
 EProtoNet 在原型网络框架中引入了**弹性距离度量**，用于跨域条件下（如不同转速）的小样本故障诊断。核心创新是一个可调节的缩放因子，用于调制查询样本与类原型之间的欧氏距离，使得在源域和目标域存在显著分布偏移时仍能实现鲁棒分类。
 
 <div align="center">
-<img src="figures/framework.png" width="700" />
+<img src="Framework diagram of EProtoNet.png" width="700" />
 <p><em>EProtoNet 框架图</em></p>
 </div>
 
 <div align="center">
-<img src="Framework diagram of EProtoNet.png" width="700" />
+<img src="The overall procedure of this method.png" width="700" />
 <p><em>所提方法的整体流程</em></p>
 </div>
 
