@@ -8,8 +8,10 @@
 > Jingjie Luo, Haidong Shao*, Jian Lin, Bin Liu
 >
 > *Reliability Engineering & System Safety*, Volume 245, 2024, 110001
-
+> 
+（本科期间的成果了，现在回看，还有很多能进一步改进和优化的，请多见谅 ⊙﹏⊙ ）
 ---
+
 
 ## Overview
 
@@ -191,7 +193,7 @@ If you find this work useful, please cite:
 
 **基于弹性原型网络的元学习方法用于不稳定转速下轴承故障迁移诊断**
 
-本科期间的成果了，现在回看，还有很多能进一步改进和优化的，请多见谅！
+（本科期间的成果了，现在回看，还有很多能进一步改进和优化的，请多见谅 ⊙﹏⊙ ）
 
 [![论文](https://img.shields.io/badge/论文-Reliability%20Engineering%20%26%20System%20Safety-blue)](https://doi.org/10.1016/j.ress.2024.110001)
 [![许可证](https://img.shields.io/badge/许可证-MIT-green.svg)](LICENSE)
