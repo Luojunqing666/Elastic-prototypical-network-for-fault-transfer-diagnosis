@@ -16,12 +16,12 @@
 EProtoNet introduces an **elastic distance metric** into the prototypical network framework for few-shot fault diagnosis under cross-domain conditions (e.g., varying rotational speeds). The key innovation is a learnable scale factor that modulates the Euclidean distance between query samples and class prototypes, enabling more robust classification when source and target domains exhibit significant distribution shift.
 
 <div align="center">
-<img src="figures/framework.png" width="700" />
+<img src="Framework diagram of EProtoNet.png" width="700" />
 <p><em>Framework diagram of EProtoNet</em></p>
 </div>
 
 <div align="center">
-<img src="figures/overall_procedure.png" width="700" />
+<img src="Framework diagram of EProtoNet.png" width="700" />
 <p><em>The overall procedure of the proposed method</em></p>
 </div>
 
@@ -194,7 +194,7 @@ If you find this work useful, please cite:
 [![论文](https://img.shields.io/badge/论文-Reliability%20Engineering%20%26%20System%20Safety-blue)](https://doi.org/10.1016/j.ress.2024.110001)
 [![许可证](https://img.shields.io/badge/许可证-MIT-green.svg)](LICENSE)
 
-> 罗景杰, 邵海东*, 林健, 刘斌
+> 罗靖捷, 邵海东*, 林健, 刘斌
 >
 > *Reliability Engineering & System Safety*, 第245卷, 2024, 110001
 
@@ -210,7 +210,7 @@ EProtoNet 在原型网络框架中引入了**弹性距离度量**，用于跨域
 </div>
 
 <div align="center">
-<img src="figures/overall_procedure.png" width="700" />
+<img src="Framework diagram of EProtoNet.png" width="700" />
 <p><em>所提方法的整体流程</em></p>
 </div>
 
